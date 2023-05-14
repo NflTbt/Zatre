@@ -1,0 +1,1 @@
+javadoc.exe -sourcepath .\src cui domein exceptions main persistentie taal gui testen -d .\doc -private --module-path ".\jar"
